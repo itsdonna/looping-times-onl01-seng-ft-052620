@@ -2,6 +2,9 @@
 # 	#your code here
 # end
 
+7.times do
+  puts ""
+
 
 
 
